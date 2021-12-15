@@ -2,10 +2,7 @@
 [[Eng]](#English) / [[Kor]](#Korean)
 
 ---
-
-#English
-
-This is an AI diagnosis modeling contest that uses the heart disease echocardiography and electrocardiogram datasets for artificial intelligence learning promoted as part of the "2021 AI Learning Data Construction Project" to discriminate echocardiography/electrocardiogram diseases.
+<p id='English'>This is an AI diagnosis modeling contest that uses the heart disease echocardiography and electrocardiogram datasets for artificial intelligence learning promoted as part of the "2021 AI Learning Data Construction Project" to discriminate echocardiography/electrocardiogram diseases.</p>
 
 ## Task II. Arrythmia on ECG datasets
 
@@ -83,11 +80,9 @@ python eval.py -h
 
 ---
 
-#Korean
-
-심초음파/심전도 ai 모델 데이터톤 2021
-
-이 경진대회는 "2021 인공지능 학습용 데이터 구축사업"의 일환으로 추진된 인공지능 학습용 심장질환 심초음파 및 심전도 데이터셋을 이용하여 심초음파/심전도 질환을 판별하는 AI 진단 모델링 경진대회입니다.
+<p id='Korean'>심초음파/심전도 AI 모델 데이터톤 2021<br?
+<br?
+이 경진대회는 "2021 인공지능 학습용 데이터 구축사업"의 일환으로 추진된 인공지능 학습용 심장질환 심초음파 및 심전도 데이터셋을 이용하여 심초음파/심전도 질환을 판별하는 AI 진단 모델링 경진대회입니다.</p>
 
 ## Task II. Arrythmia on ECG datasets
 
